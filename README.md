@@ -61,7 +61,7 @@ To achieve this, we used **VADER (Valence Aware Dictionary for Sentiment Reasoni
 
 ## 🚀 How to Run
 
-Clone this repository or download the files.
+1. Clone this repository or download the files.
 2. Ensure the dataset file `Restuarant_Data.csv` is placed in the root directory or update the file path in the code.
 3. Install the required Python packages:
    ```bash
@@ -70,7 +70,6 @@ Clone this repository or download the files.
 5. Run the notebook cells sequentially to perform sentiment analysis and view visualizations.
 
 ---
-
 
 ## 📂 Data Source
 
